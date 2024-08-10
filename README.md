@@ -16,4 +16,5 @@ JB61834 are an anonomised participant in the emprical research and the resultant
 4. D_SysHaz: the model of how hazard analyses are carried out; and the subsequent identification of software's contribution to system hazards
 5. D_SwFailMode: the model of how software failure modes contribute to system hazards
 6.D_SoftwareContribution: the model of analysing software's contribution to system hazards
-7. xx
+7. D_SwReq: The model of how software safety requirements are managed
+8. xx
