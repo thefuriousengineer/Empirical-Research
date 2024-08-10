@@ -18,4 +18,5 @@ JB61834 are an anonomised participant in the emprical research and the resultant
 6.D_SoftwareContribution: the model of analysing software's contribution to system hazards
 7. D_SwReq: the model of how software safety requirements are managed
 8.JB61834_As Obsered: the model of as-observed practice for the project
-9. xx
+9. Step7: the model denoting the comparison between As-Observed and As-Requried (Closed) practice
+10. xx
