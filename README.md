@@ -21,4 +21,4 @@ JB61834 are an anonomised participant in the emprical research and the resultant
 9. Step7: the model denoting the comparison between As-Observed and As-Requried (Closed) practice
 10. JB61834_Step8: the model denoting the comparision between As-Required (Open) and As-Required (Closed) practice.
 
-JB61834 also took part in the empirical research to create As-Observed models. This was facilitated by carrying out an interview with two representatives of their organisation. One of these interviews is transcribed in the SJ84999 Interview Transcrip_redacted file.
+JB61834 also took part in the empirical research to create As-Observed models. This was facilitated by carrying out an interview with two representatives of their organisation. One of these interviews is transcribed in the SJ84999 Interview Transcript_redacted file.
